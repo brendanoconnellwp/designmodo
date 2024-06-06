@@ -1,0 +1,2665 @@
+/* File: automatic-gutenberg-color-palette.css - Version: 3.0.0-beta-2.2 - Generated: 2024-06-06 11:10:31 */
+.has-primary-color {
+  color: var(--primary);
+}
+.has-primary-background-color {
+  background-color: var(--primary);
+}
+.has-primary-border-color {
+  border-color: var(--primary);
+}
+.has-primary-hover-color {
+  color: var(--primary-hover);
+}
+.has-primary-hover-background-color {
+  background-color: var(--primary-hover);
+}
+.has-primary-hover-border-color {
+  border-color: var(--primary-hover);
+}
+.has-primary-ultra-light-color {
+  color: var(--primary-ultra-light);
+}
+.has-primary-ultra-light-background-color {
+  background-color: var(--primary-ultra-light);
+}
+.has-primary-ultra-light-border-color {
+  border-color: var(--primary-ultra-light);
+}
+.has-primary-light-color {
+  color: var(--primary-light);
+}
+.has-primary-light-background-color {
+  background-color: var(--primary-light);
+}
+.has-primary-light-border-color {
+  border-color: var(--primary-light);
+}
+.has-primary-semi-light-color {
+  color: var(--primary-semi-light);
+}
+.has-primary-semi-light-background-color {
+  background-color: var(--primary-semi-light);
+}
+.has-primary-semi-light-border-color {
+  border-color: var(--primary-semi-light);
+}
+.has-primary-semi-dark-color {
+  color: var(--primary-semi-dark);
+}
+.has-primary-semi-dark-background-color {
+  background-color: var(--primary-semi-dark);
+}
+.has-primary-semi-dark-border-color {
+  border-color: var(--primary-semi-dark);
+}
+.has-primary-dark-color {
+  color: var(--primary-dark);
+}
+.has-primary-dark-background-color {
+  background-color: var(--primary-dark);
+}
+.has-primary-dark-border-color {
+  border-color: var(--primary-dark);
+}
+.has-primary-ultra-dark-color {
+  color: var(--primary-ultra-dark);
+}
+.has-primary-ultra-dark-background-color {
+  background-color: var(--primary-ultra-dark);
+}
+.has-primary-ultra-dark-border-color {
+  border-color: var(--primary-ultra-dark);
+}
+.has-primary-comp-color {
+  color: var(--primary-comp);
+}
+.has-primary-comp-background-color {
+  background-color: var(--primary-comp);
+}
+.has-primary-comp-border-color {
+  border-color: var(--primary-comp);
+}
+.has-primary-medium-color {
+  color: var(--primary-medium);
+}
+.has-primary-medium-background-color {
+  background-color: var(--primary-medium);
+}
+.has-primary-medium-border-color {
+  border-color: var(--primary-medium);
+}
+.has-primary-trans-10-color {
+  color: var(--primary-trans-10);
+}
+.has-primary-trans-10-background-color {
+  background-color: var(--primary-trans-10);
+}
+.has-primary-trans-10-border-color {
+  border-color: var(--primary-trans-10);
+}
+.has-primary-trans-20-color {
+  color: var(--primary-trans-20);
+}
+.has-primary-trans-20-background-color {
+  background-color: var(--primary-trans-20);
+}
+.has-primary-trans-20-border-color {
+  border-color: var(--primary-trans-20);
+}
+.has-primary-trans-30-color {
+  color: var(--primary-trans-30);
+}
+.has-primary-trans-30-background-color {
+  background-color: var(--primary-trans-30);
+}
+.has-primary-trans-30-border-color {
+  border-color: var(--primary-trans-30);
+}
+.has-primary-trans-40-color {
+  color: var(--primary-trans-40);
+}
+.has-primary-trans-40-background-color {
+  background-color: var(--primary-trans-40);
+}
+.has-primary-trans-40-border-color {
+  border-color: var(--primary-trans-40);
+}
+.has-primary-trans-50-color {
+  color: var(--primary-trans-50);
+}
+.has-primary-trans-50-background-color {
+  background-color: var(--primary-trans-50);
+}
+.has-primary-trans-50-border-color {
+  border-color: var(--primary-trans-50);
+}
+.has-primary-trans-60-color {
+  color: var(--primary-trans-60);
+}
+.has-primary-trans-60-background-color {
+  background-color: var(--primary-trans-60);
+}
+.has-primary-trans-60-border-color {
+  border-color: var(--primary-trans-60);
+}
+.has-primary-trans-70-color {
+  color: var(--primary-trans-70);
+}
+.has-primary-trans-70-background-color {
+  background-color: var(--primary-trans-70);
+}
+.has-primary-trans-70-border-color {
+  border-color: var(--primary-trans-70);
+}
+.has-primary-trans-80-color {
+  color: var(--primary-trans-80);
+}
+.has-primary-trans-80-background-color {
+  background-color: var(--primary-trans-80);
+}
+.has-primary-trans-80-border-color {
+  border-color: var(--primary-trans-80);
+}
+.has-primary-trans-90-color {
+  color: var(--primary-trans-90);
+}
+.has-primary-trans-90-background-color {
+  background-color: var(--primary-trans-90);
+}
+.has-primary-trans-90-border-color {
+  border-color: var(--primary-trans-90);
+}
+.has-primary-light-trans-10-color {
+  color: var(--primary-light-trans-10);
+}
+.has-primary-light-trans-10-background-color {
+  background-color: var(--primary-light-trans-10);
+}
+.has-primary-light-trans-10-border-color {
+  border-color: var(--primary-light-trans-10);
+}
+.has-primary-light-trans-20-color {
+  color: var(--primary-light-trans-20);
+}
+.has-primary-light-trans-20-background-color {
+  background-color: var(--primary-light-trans-20);
+}
+.has-primary-light-trans-20-border-color {
+  border-color: var(--primary-light-trans-20);
+}
+.has-primary-light-trans-30-color {
+  color: var(--primary-light-trans-30);
+}
+.has-primary-light-trans-30-background-color {
+  background-color: var(--primary-light-trans-30);
+}
+.has-primary-light-trans-30-border-color {
+  border-color: var(--primary-light-trans-30);
+}
+.has-primary-light-trans-40-color {
+  color: var(--primary-light-trans-40);
+}
+.has-primary-light-trans-40-background-color {
+  background-color: var(--primary-light-trans-40);
+}
+.has-primary-light-trans-40-border-color {
+  border-color: var(--primary-light-trans-40);
+}
+.has-primary-light-trans-50-color {
+  color: var(--primary-light-trans-50);
+}
+.has-primary-light-trans-50-background-color {
+  background-color: var(--primary-light-trans-50);
+}
+.has-primary-light-trans-50-border-color {
+  border-color: var(--primary-light-trans-50);
+}
+.has-primary-light-trans-60-color {
+  color: var(--primary-light-trans-60);
+}
+.has-primary-light-trans-60-background-color {
+  background-color: var(--primary-light-trans-60);
+}
+.has-primary-light-trans-60-border-color {
+  border-color: var(--primary-light-trans-60);
+}
+.has-primary-light-trans-70-color {
+  color: var(--primary-light-trans-70);
+}
+.has-primary-light-trans-70-background-color {
+  background-color: var(--primary-light-trans-70);
+}
+.has-primary-light-trans-70-border-color {
+  border-color: var(--primary-light-trans-70);
+}
+.has-primary-light-trans-80-color {
+  color: var(--primary-light-trans-80);
+}
+.has-primary-light-trans-80-background-color {
+  background-color: var(--primary-light-trans-80);
+}
+.has-primary-light-trans-80-border-color {
+  border-color: var(--primary-light-trans-80);
+}
+.has-primary-light-trans-90-color {
+  color: var(--primary-light-trans-90);
+}
+.has-primary-light-trans-90-background-color {
+  background-color: var(--primary-light-trans-90);
+}
+.has-primary-light-trans-90-border-color {
+  border-color: var(--primary-light-trans-90);
+}
+.has-primary-dark-trans-10-color {
+  color: var(--primary-dark-trans-10);
+}
+.has-primary-dark-trans-10-background-color {
+  background-color: var(--primary-dark-trans-10);
+}
+.has-primary-dark-trans-10-border-color {
+  border-color: var(--primary-dark-trans-10);
+}
+.has-primary-dark-trans-20-color {
+  color: var(--primary-dark-trans-20);
+}
+.has-primary-dark-trans-20-background-color {
+  background-color: var(--primary-dark-trans-20);
+}
+.has-primary-dark-trans-20-border-color {
+  border-color: var(--primary-dark-trans-20);
+}
+.has-primary-dark-trans-30-color {
+  color: var(--primary-dark-trans-30);
+}
+.has-primary-dark-trans-30-background-color {
+  background-color: var(--primary-dark-trans-30);
+}
+.has-primary-dark-trans-30-border-color {
+  border-color: var(--primary-dark-trans-30);
+}
+.has-primary-dark-trans-40-color {
+  color: var(--primary-dark-trans-40);
+}
+.has-primary-dark-trans-40-background-color {
+  background-color: var(--primary-dark-trans-40);
+}
+.has-primary-dark-trans-40-border-color {
+  border-color: var(--primary-dark-trans-40);
+}
+.has-primary-dark-trans-50-color {
+  color: var(--primary-dark-trans-50);
+}
+.has-primary-dark-trans-50-background-color {
+  background-color: var(--primary-dark-trans-50);
+}
+.has-primary-dark-trans-50-border-color {
+  border-color: var(--primary-dark-trans-50);
+}
+.has-primary-dark-trans-60-color {
+  color: var(--primary-dark-trans-60);
+}
+.has-primary-dark-trans-60-background-color {
+  background-color: var(--primary-dark-trans-60);
+}
+.has-primary-dark-trans-60-border-color {
+  border-color: var(--primary-dark-trans-60);
+}
+.has-primary-dark-trans-70-color {
+  color: var(--primary-dark-trans-70);
+}
+.has-primary-dark-trans-70-background-color {
+  background-color: var(--primary-dark-trans-70);
+}
+.has-primary-dark-trans-70-border-color {
+  border-color: var(--primary-dark-trans-70);
+}
+.has-primary-dark-trans-80-color {
+  color: var(--primary-dark-trans-80);
+}
+.has-primary-dark-trans-80-background-color {
+  background-color: var(--primary-dark-trans-80);
+}
+.has-primary-dark-trans-80-border-color {
+  border-color: var(--primary-dark-trans-80);
+}
+.has-primary-dark-trans-90-color {
+  color: var(--primary-dark-trans-90);
+}
+.has-primary-dark-trans-90-background-color {
+  background-color: var(--primary-dark-trans-90);
+}
+.has-primary-dark-trans-90-border-color {
+  border-color: var(--primary-dark-trans-90);
+}
+.has-primary-ultra-dark-trans-10-color {
+  color: var(--primary-ultra-dark-trans-10);
+}
+.has-primary-ultra-dark-trans-10-background-color {
+  background-color: var(--primary-ultra-dark-trans-10);
+}
+.has-primary-ultra-dark-trans-10-border-color {
+  border-color: var(--primary-ultra-dark-trans-10);
+}
+.has-primary-ultra-dark-trans-20-color {
+  color: var(--primary-ultra-dark-trans-20);
+}
+.has-primary-ultra-dark-trans-20-background-color {
+  background-color: var(--primary-ultra-dark-trans-20);
+}
+.has-primary-ultra-dark-trans-20-border-color {
+  border-color: var(--primary-ultra-dark-trans-20);
+}
+.has-primary-ultra-dark-trans-30-color {
+  color: var(--primary-ultra-dark-trans-30);
+}
+.has-primary-ultra-dark-trans-30-background-color {
+  background-color: var(--primary-ultra-dark-trans-30);
+}
+.has-primary-ultra-dark-trans-30-border-color {
+  border-color: var(--primary-ultra-dark-trans-30);
+}
+.has-primary-ultra-dark-trans-40-color {
+  color: var(--primary-ultra-dark-trans-40);
+}
+.has-primary-ultra-dark-trans-40-background-color {
+  background-color: var(--primary-ultra-dark-trans-40);
+}
+.has-primary-ultra-dark-trans-40-border-color {
+  border-color: var(--primary-ultra-dark-trans-40);
+}
+.has-primary-ultra-dark-trans-50-color {
+  color: var(--primary-ultra-dark-trans-50);
+}
+.has-primary-ultra-dark-trans-50-background-color {
+  background-color: var(--primary-ultra-dark-trans-50);
+}
+.has-primary-ultra-dark-trans-50-border-color {
+  border-color: var(--primary-ultra-dark-trans-50);
+}
+.has-primary-ultra-dark-trans-60-color {
+  color: var(--primary-ultra-dark-trans-60);
+}
+.has-primary-ultra-dark-trans-60-background-color {
+  background-color: var(--primary-ultra-dark-trans-60);
+}
+.has-primary-ultra-dark-trans-60-border-color {
+  border-color: var(--primary-ultra-dark-trans-60);
+}
+.has-primary-ultra-dark-trans-70-color {
+  color: var(--primary-ultra-dark-trans-70);
+}
+.has-primary-ultra-dark-trans-70-background-color {
+  background-color: var(--primary-ultra-dark-trans-70);
+}
+.has-primary-ultra-dark-trans-70-border-color {
+  border-color: var(--primary-ultra-dark-trans-70);
+}
+.has-primary-ultra-dark-trans-80-color {
+  color: var(--primary-ultra-dark-trans-80);
+}
+.has-primary-ultra-dark-trans-80-background-color {
+  background-color: var(--primary-ultra-dark-trans-80);
+}
+.has-primary-ultra-dark-trans-80-border-color {
+  border-color: var(--primary-ultra-dark-trans-80);
+}
+.has-primary-ultra-dark-trans-90-color {
+  color: var(--primary-ultra-dark-trans-90);
+}
+.has-primary-ultra-dark-trans-90-background-color {
+  background-color: var(--primary-ultra-dark-trans-90);
+}
+.has-primary-ultra-dark-trans-90-border-color {
+  border-color: var(--primary-ultra-dark-trans-90);
+}
+.has-secondary-color {
+  color: var(--secondary);
+}
+.has-secondary-background-color {
+  background-color: var(--secondary);
+}
+.has-secondary-border-color {
+  border-color: var(--secondary);
+}
+.has-secondary-hover-color {
+  color: var(--secondary-hover);
+}
+.has-secondary-hover-background-color {
+  background-color: var(--secondary-hover);
+}
+.has-secondary-hover-border-color {
+  border-color: var(--secondary-hover);
+}
+.has-secondary-ultra-light-color {
+  color: var(--secondary-ultra-light);
+}
+.has-secondary-ultra-light-background-color {
+  background-color: var(--secondary-ultra-light);
+}
+.has-secondary-ultra-light-border-color {
+  border-color: var(--secondary-ultra-light);
+}
+.has-secondary-light-color {
+  color: var(--secondary-light);
+}
+.has-secondary-light-background-color {
+  background-color: var(--secondary-light);
+}
+.has-secondary-light-border-color {
+  border-color: var(--secondary-light);
+}
+.has-secondary-semi-light-color {
+  color: var(--secondary-semi-light);
+}
+.has-secondary-semi-light-background-color {
+  background-color: var(--secondary-semi-light);
+}
+.has-secondary-semi-light-border-color {
+  border-color: var(--secondary-semi-light);
+}
+.has-secondary-semi-dark-color {
+  color: var(--secondary-semi-dark);
+}
+.has-secondary-semi-dark-background-color {
+  background-color: var(--secondary-semi-dark);
+}
+.has-secondary-semi-dark-border-color {
+  border-color: var(--secondary-semi-dark);
+}
+.has-secondary-dark-color {
+  color: var(--secondary-dark);
+}
+.has-secondary-dark-background-color {
+  background-color: var(--secondary-dark);
+}
+.has-secondary-dark-border-color {
+  border-color: var(--secondary-dark);
+}
+.has-secondary-ultra-dark-color {
+  color: var(--secondary-ultra-dark);
+}
+.has-secondary-ultra-dark-background-color {
+  background-color: var(--secondary-ultra-dark);
+}
+.has-secondary-ultra-dark-border-color {
+  border-color: var(--secondary-ultra-dark);
+}
+.has-secondary-comp-color {
+  color: var(--secondary-comp);
+}
+.has-secondary-comp-background-color {
+  background-color: var(--secondary-comp);
+}
+.has-secondary-comp-border-color {
+  border-color: var(--secondary-comp);
+}
+.has-secondary-medium-color {
+  color: var(--secondary-medium);
+}
+.has-secondary-medium-background-color {
+  background-color: var(--secondary-medium);
+}
+.has-secondary-medium-border-color {
+  border-color: var(--secondary-medium);
+}
+.has-secondary-trans-10-color {
+  color: var(--secondary-trans-10);
+}
+.has-secondary-trans-10-background-color {
+  background-color: var(--secondary-trans-10);
+}
+.has-secondary-trans-10-border-color {
+  border-color: var(--secondary-trans-10);
+}
+.has-secondary-trans-20-color {
+  color: var(--secondary-trans-20);
+}
+.has-secondary-trans-20-background-color {
+  background-color: var(--secondary-trans-20);
+}
+.has-secondary-trans-20-border-color {
+  border-color: var(--secondary-trans-20);
+}
+.has-secondary-trans-30-color {
+  color: var(--secondary-trans-30);
+}
+.has-secondary-trans-30-background-color {
+  background-color: var(--secondary-trans-30);
+}
+.has-secondary-trans-30-border-color {
+  border-color: var(--secondary-trans-30);
+}
+.has-secondary-trans-40-color {
+  color: var(--secondary-trans-40);
+}
+.has-secondary-trans-40-background-color {
+  background-color: var(--secondary-trans-40);
+}
+.has-secondary-trans-40-border-color {
+  border-color: var(--secondary-trans-40);
+}
+.has-secondary-trans-50-color {
+  color: var(--secondary-trans-50);
+}
+.has-secondary-trans-50-background-color {
+  background-color: var(--secondary-trans-50);
+}
+.has-secondary-trans-50-border-color {
+  border-color: var(--secondary-trans-50);
+}
+.has-secondary-trans-60-color {
+  color: var(--secondary-trans-60);
+}
+.has-secondary-trans-60-background-color {
+  background-color: var(--secondary-trans-60);
+}
+.has-secondary-trans-60-border-color {
+  border-color: var(--secondary-trans-60);
+}
+.has-secondary-trans-70-color {
+  color: var(--secondary-trans-70);
+}
+.has-secondary-trans-70-background-color {
+  background-color: var(--secondary-trans-70);
+}
+.has-secondary-trans-70-border-color {
+  border-color: var(--secondary-trans-70);
+}
+.has-secondary-trans-80-color {
+  color: var(--secondary-trans-80);
+}
+.has-secondary-trans-80-background-color {
+  background-color: var(--secondary-trans-80);
+}
+.has-secondary-trans-80-border-color {
+  border-color: var(--secondary-trans-80);
+}
+.has-secondary-trans-90-color {
+  color: var(--secondary-trans-90);
+}
+.has-secondary-trans-90-background-color {
+  background-color: var(--secondary-trans-90);
+}
+.has-secondary-trans-90-border-color {
+  border-color: var(--secondary-trans-90);
+}
+.has-secondary-light-trans-10-color {
+  color: var(--secondary-light-trans-10);
+}
+.has-secondary-light-trans-10-background-color {
+  background-color: var(--secondary-light-trans-10);
+}
+.has-secondary-light-trans-10-border-color {
+  border-color: var(--secondary-light-trans-10);
+}
+.has-secondary-light-trans-20-color {
+  color: var(--secondary-light-trans-20);
+}
+.has-secondary-light-trans-20-background-color {
+  background-color: var(--secondary-light-trans-20);
+}
+.has-secondary-light-trans-20-border-color {
+  border-color: var(--secondary-light-trans-20);
+}
+.has-secondary-light-trans-30-color {
+  color: var(--secondary-light-trans-30);
+}
+.has-secondary-light-trans-30-background-color {
+  background-color: var(--secondary-light-trans-30);
+}
+.has-secondary-light-trans-30-border-color {
+  border-color: var(--secondary-light-trans-30);
+}
+.has-secondary-light-trans-40-color {
+  color: var(--secondary-light-trans-40);
+}
+.has-secondary-light-trans-40-background-color {
+  background-color: var(--secondary-light-trans-40);
+}
+.has-secondary-light-trans-40-border-color {
+  border-color: var(--secondary-light-trans-40);
+}
+.has-secondary-light-trans-50-color {
+  color: var(--secondary-light-trans-50);
+}
+.has-secondary-light-trans-50-background-color {
+  background-color: var(--secondary-light-trans-50);
+}
+.has-secondary-light-trans-50-border-color {
+  border-color: var(--secondary-light-trans-50);
+}
+.has-secondary-light-trans-60-color {
+  color: var(--secondary-light-trans-60);
+}
+.has-secondary-light-trans-60-background-color {
+  background-color: var(--secondary-light-trans-60);
+}
+.has-secondary-light-trans-60-border-color {
+  border-color: var(--secondary-light-trans-60);
+}
+.has-secondary-light-trans-70-color {
+  color: var(--secondary-light-trans-70);
+}
+.has-secondary-light-trans-70-background-color {
+  background-color: var(--secondary-light-trans-70);
+}
+.has-secondary-light-trans-70-border-color {
+  border-color: var(--secondary-light-trans-70);
+}
+.has-secondary-light-trans-80-color {
+  color: var(--secondary-light-trans-80);
+}
+.has-secondary-light-trans-80-background-color {
+  background-color: var(--secondary-light-trans-80);
+}
+.has-secondary-light-trans-80-border-color {
+  border-color: var(--secondary-light-trans-80);
+}
+.has-secondary-light-trans-90-color {
+  color: var(--secondary-light-trans-90);
+}
+.has-secondary-light-trans-90-background-color {
+  background-color: var(--secondary-light-trans-90);
+}
+.has-secondary-light-trans-90-border-color {
+  border-color: var(--secondary-light-trans-90);
+}
+.has-secondary-dark-trans-10-color {
+  color: var(--secondary-dark-trans-10);
+}
+.has-secondary-dark-trans-10-background-color {
+  background-color: var(--secondary-dark-trans-10);
+}
+.has-secondary-dark-trans-10-border-color {
+  border-color: var(--secondary-dark-trans-10);
+}
+.has-secondary-dark-trans-20-color {
+  color: var(--secondary-dark-trans-20);
+}
+.has-secondary-dark-trans-20-background-color {
+  background-color: var(--secondary-dark-trans-20);
+}
+.has-secondary-dark-trans-20-border-color {
+  border-color: var(--secondary-dark-trans-20);
+}
+.has-secondary-dark-trans-30-color {
+  color: var(--secondary-dark-trans-30);
+}
+.has-secondary-dark-trans-30-background-color {
+  background-color: var(--secondary-dark-trans-30);
+}
+.has-secondary-dark-trans-30-border-color {
+  border-color: var(--secondary-dark-trans-30);
+}
+.has-secondary-dark-trans-40-color {
+  color: var(--secondary-dark-trans-40);
+}
+.has-secondary-dark-trans-40-background-color {
+  background-color: var(--secondary-dark-trans-40);
+}
+.has-secondary-dark-trans-40-border-color {
+  border-color: var(--secondary-dark-trans-40);
+}
+.has-secondary-dark-trans-50-color {
+  color: var(--secondary-dark-trans-50);
+}
+.has-secondary-dark-trans-50-background-color {
+  background-color: var(--secondary-dark-trans-50);
+}
+.has-secondary-dark-trans-50-border-color {
+  border-color: var(--secondary-dark-trans-50);
+}
+.has-secondary-dark-trans-60-color {
+  color: var(--secondary-dark-trans-60);
+}
+.has-secondary-dark-trans-60-background-color {
+  background-color: var(--secondary-dark-trans-60);
+}
+.has-secondary-dark-trans-60-border-color {
+  border-color: var(--secondary-dark-trans-60);
+}
+.has-secondary-dark-trans-70-color {
+  color: var(--secondary-dark-trans-70);
+}
+.has-secondary-dark-trans-70-background-color {
+  background-color: var(--secondary-dark-trans-70);
+}
+.has-secondary-dark-trans-70-border-color {
+  border-color: var(--secondary-dark-trans-70);
+}
+.has-secondary-dark-trans-80-color {
+  color: var(--secondary-dark-trans-80);
+}
+.has-secondary-dark-trans-80-background-color {
+  background-color: var(--secondary-dark-trans-80);
+}
+.has-secondary-dark-trans-80-border-color {
+  border-color: var(--secondary-dark-trans-80);
+}
+.has-secondary-dark-trans-90-color {
+  color: var(--secondary-dark-trans-90);
+}
+.has-secondary-dark-trans-90-background-color {
+  background-color: var(--secondary-dark-trans-90);
+}
+.has-secondary-dark-trans-90-border-color {
+  border-color: var(--secondary-dark-trans-90);
+}
+.has-secondary-ultra-dark-trans-10-color {
+  color: var(--secondary-ultra-dark-trans-10);
+}
+.has-secondary-ultra-dark-trans-10-background-color {
+  background-color: var(--secondary-ultra-dark-trans-10);
+}
+.has-secondary-ultra-dark-trans-10-border-color {
+  border-color: var(--secondary-ultra-dark-trans-10);
+}
+.has-secondary-ultra-dark-trans-20-color {
+  color: var(--secondary-ultra-dark-trans-20);
+}
+.has-secondary-ultra-dark-trans-20-background-color {
+  background-color: var(--secondary-ultra-dark-trans-20);
+}
+.has-secondary-ultra-dark-trans-20-border-color {
+  border-color: var(--secondary-ultra-dark-trans-20);
+}
+.has-secondary-ultra-dark-trans-30-color {
+  color: var(--secondary-ultra-dark-trans-30);
+}
+.has-secondary-ultra-dark-trans-30-background-color {
+  background-color: var(--secondary-ultra-dark-trans-30);
+}
+.has-secondary-ultra-dark-trans-30-border-color {
+  border-color: var(--secondary-ultra-dark-trans-30);
+}
+.has-secondary-ultra-dark-trans-40-color {
+  color: var(--secondary-ultra-dark-trans-40);
+}
+.has-secondary-ultra-dark-trans-40-background-color {
+  background-color: var(--secondary-ultra-dark-trans-40);
+}
+.has-secondary-ultra-dark-trans-40-border-color {
+  border-color: var(--secondary-ultra-dark-trans-40);
+}
+.has-secondary-ultra-dark-trans-50-color {
+  color: var(--secondary-ultra-dark-trans-50);
+}
+.has-secondary-ultra-dark-trans-50-background-color {
+  background-color: var(--secondary-ultra-dark-trans-50);
+}
+.has-secondary-ultra-dark-trans-50-border-color {
+  border-color: var(--secondary-ultra-dark-trans-50);
+}
+.has-secondary-ultra-dark-trans-60-color {
+  color: var(--secondary-ultra-dark-trans-60);
+}
+.has-secondary-ultra-dark-trans-60-background-color {
+  background-color: var(--secondary-ultra-dark-trans-60);
+}
+.has-secondary-ultra-dark-trans-60-border-color {
+  border-color: var(--secondary-ultra-dark-trans-60);
+}
+.has-secondary-ultra-dark-trans-70-color {
+  color: var(--secondary-ultra-dark-trans-70);
+}
+.has-secondary-ultra-dark-trans-70-background-color {
+  background-color: var(--secondary-ultra-dark-trans-70);
+}
+.has-secondary-ultra-dark-trans-70-border-color {
+  border-color: var(--secondary-ultra-dark-trans-70);
+}
+.has-secondary-ultra-dark-trans-80-color {
+  color: var(--secondary-ultra-dark-trans-80);
+}
+.has-secondary-ultra-dark-trans-80-background-color {
+  background-color: var(--secondary-ultra-dark-trans-80);
+}
+.has-secondary-ultra-dark-trans-80-border-color {
+  border-color: var(--secondary-ultra-dark-trans-80);
+}
+.has-secondary-ultra-dark-trans-90-color {
+  color: var(--secondary-ultra-dark-trans-90);
+}
+.has-secondary-ultra-dark-trans-90-background-color {
+  background-color: var(--secondary-ultra-dark-trans-90);
+}
+.has-secondary-ultra-dark-trans-90-border-color {
+  border-color: var(--secondary-ultra-dark-trans-90);
+}
+.has-tertiary-color {
+  color: var(--tertiary);
+}
+.has-tertiary-background-color {
+  background-color: var(--tertiary);
+}
+.has-tertiary-border-color {
+  border-color: var(--tertiary);
+}
+.has-tertiary-hover-color {
+  color: var(--tertiary-hover);
+}
+.has-tertiary-hover-background-color {
+  background-color: var(--tertiary-hover);
+}
+.has-tertiary-hover-border-color {
+  border-color: var(--tertiary-hover);
+}
+.has-tertiary-ultra-light-color {
+  color: var(--tertiary-ultra-light);
+}
+.has-tertiary-ultra-light-background-color {
+  background-color: var(--tertiary-ultra-light);
+}
+.has-tertiary-ultra-light-border-color {
+  border-color: var(--tertiary-ultra-light);
+}
+.has-tertiary-light-color {
+  color: var(--tertiary-light);
+}
+.has-tertiary-light-background-color {
+  background-color: var(--tertiary-light);
+}
+.has-tertiary-light-border-color {
+  border-color: var(--tertiary-light);
+}
+.has-tertiary-semi-light-color {
+  color: var(--tertiary-semi-light);
+}
+.has-tertiary-semi-light-background-color {
+  background-color: var(--tertiary-semi-light);
+}
+.has-tertiary-semi-light-border-color {
+  border-color: var(--tertiary-semi-light);
+}
+.has-tertiary-semi-dark-color {
+  color: var(--tertiary-semi-dark);
+}
+.has-tertiary-semi-dark-background-color {
+  background-color: var(--tertiary-semi-dark);
+}
+.has-tertiary-semi-dark-border-color {
+  border-color: var(--tertiary-semi-dark);
+}
+.has-tertiary-dark-color {
+  color: var(--tertiary-dark);
+}
+.has-tertiary-dark-background-color {
+  background-color: var(--tertiary-dark);
+}
+.has-tertiary-dark-border-color {
+  border-color: var(--tertiary-dark);
+}
+.has-tertiary-ultra-dark-color {
+  color: var(--tertiary-ultra-dark);
+}
+.has-tertiary-ultra-dark-background-color {
+  background-color: var(--tertiary-ultra-dark);
+}
+.has-tertiary-ultra-dark-border-color {
+  border-color: var(--tertiary-ultra-dark);
+}
+.has-tertiary-comp-color {
+  color: var(--tertiary-comp);
+}
+.has-tertiary-comp-background-color {
+  background-color: var(--tertiary-comp);
+}
+.has-tertiary-comp-border-color {
+  border-color: var(--tertiary-comp);
+}
+.has-tertiary-medium-color {
+  color: var(--tertiary-medium);
+}
+.has-tertiary-medium-background-color {
+  background-color: var(--tertiary-medium);
+}
+.has-tertiary-medium-border-color {
+  border-color: var(--tertiary-medium);
+}
+.has-tertiary-trans-10-color {
+  color: var(--tertiary-trans-10);
+}
+.has-tertiary-trans-10-background-color {
+  background-color: var(--tertiary-trans-10);
+}
+.has-tertiary-trans-10-border-color {
+  border-color: var(--tertiary-trans-10);
+}
+.has-tertiary-trans-20-color {
+  color: var(--tertiary-trans-20);
+}
+.has-tertiary-trans-20-background-color {
+  background-color: var(--tertiary-trans-20);
+}
+.has-tertiary-trans-20-border-color {
+  border-color: var(--tertiary-trans-20);
+}
+.has-tertiary-trans-30-color {
+  color: var(--tertiary-trans-30);
+}
+.has-tertiary-trans-30-background-color {
+  background-color: var(--tertiary-trans-30);
+}
+.has-tertiary-trans-30-border-color {
+  border-color: var(--tertiary-trans-30);
+}
+.has-tertiary-trans-40-color {
+  color: var(--tertiary-trans-40);
+}
+.has-tertiary-trans-40-background-color {
+  background-color: var(--tertiary-trans-40);
+}
+.has-tertiary-trans-40-border-color {
+  border-color: var(--tertiary-trans-40);
+}
+.has-tertiary-trans-50-color {
+  color: var(--tertiary-trans-50);
+}
+.has-tertiary-trans-50-background-color {
+  background-color: var(--tertiary-trans-50);
+}
+.has-tertiary-trans-50-border-color {
+  border-color: var(--tertiary-trans-50);
+}
+.has-tertiary-trans-60-color {
+  color: var(--tertiary-trans-60);
+}
+.has-tertiary-trans-60-background-color {
+  background-color: var(--tertiary-trans-60);
+}
+.has-tertiary-trans-60-border-color {
+  border-color: var(--tertiary-trans-60);
+}
+.has-tertiary-trans-70-color {
+  color: var(--tertiary-trans-70);
+}
+.has-tertiary-trans-70-background-color {
+  background-color: var(--tertiary-trans-70);
+}
+.has-tertiary-trans-70-border-color {
+  border-color: var(--tertiary-trans-70);
+}
+.has-tertiary-trans-80-color {
+  color: var(--tertiary-trans-80);
+}
+.has-tertiary-trans-80-background-color {
+  background-color: var(--tertiary-trans-80);
+}
+.has-tertiary-trans-80-border-color {
+  border-color: var(--tertiary-trans-80);
+}
+.has-tertiary-trans-90-color {
+  color: var(--tertiary-trans-90);
+}
+.has-tertiary-trans-90-background-color {
+  background-color: var(--tertiary-trans-90);
+}
+.has-tertiary-trans-90-border-color {
+  border-color: var(--tertiary-trans-90);
+}
+.has-tertiary-light-trans-10-color {
+  color: var(--tertiary-light-trans-10);
+}
+.has-tertiary-light-trans-10-background-color {
+  background-color: var(--tertiary-light-trans-10);
+}
+.has-tertiary-light-trans-10-border-color {
+  border-color: var(--tertiary-light-trans-10);
+}
+.has-tertiary-light-trans-20-color {
+  color: var(--tertiary-light-trans-20);
+}
+.has-tertiary-light-trans-20-background-color {
+  background-color: var(--tertiary-light-trans-20);
+}
+.has-tertiary-light-trans-20-border-color {
+  border-color: var(--tertiary-light-trans-20);
+}
+.has-tertiary-light-trans-30-color {
+  color: var(--tertiary-light-trans-30);
+}
+.has-tertiary-light-trans-30-background-color {
+  background-color: var(--tertiary-light-trans-30);
+}
+.has-tertiary-light-trans-30-border-color {
+  border-color: var(--tertiary-light-trans-30);
+}
+.has-tertiary-light-trans-40-color {
+  color: var(--tertiary-light-trans-40);
+}
+.has-tertiary-light-trans-40-background-color {
+  background-color: var(--tertiary-light-trans-40);
+}
+.has-tertiary-light-trans-40-border-color {
+  border-color: var(--tertiary-light-trans-40);
+}
+.has-tertiary-light-trans-50-color {
+  color: var(--tertiary-light-trans-50);
+}
+.has-tertiary-light-trans-50-background-color {
+  background-color: var(--tertiary-light-trans-50);
+}
+.has-tertiary-light-trans-50-border-color {
+  border-color: var(--tertiary-light-trans-50);
+}
+.has-tertiary-light-trans-60-color {
+  color: var(--tertiary-light-trans-60);
+}
+.has-tertiary-light-trans-60-background-color {
+  background-color: var(--tertiary-light-trans-60);
+}
+.has-tertiary-light-trans-60-border-color {
+  border-color: var(--tertiary-light-trans-60);
+}
+.has-tertiary-light-trans-70-color {
+  color: var(--tertiary-light-trans-70);
+}
+.has-tertiary-light-trans-70-background-color {
+  background-color: var(--tertiary-light-trans-70);
+}
+.has-tertiary-light-trans-70-border-color {
+  border-color: var(--tertiary-light-trans-70);
+}
+.has-tertiary-light-trans-80-color {
+  color: var(--tertiary-light-trans-80);
+}
+.has-tertiary-light-trans-80-background-color {
+  background-color: var(--tertiary-light-trans-80);
+}
+.has-tertiary-light-trans-80-border-color {
+  border-color: var(--tertiary-light-trans-80);
+}
+.has-tertiary-light-trans-90-color {
+  color: var(--tertiary-light-trans-90);
+}
+.has-tertiary-light-trans-90-background-color {
+  background-color: var(--tertiary-light-trans-90);
+}
+.has-tertiary-light-trans-90-border-color {
+  border-color: var(--tertiary-light-trans-90);
+}
+.has-tertiary-dark-trans-10-color {
+  color: var(--tertiary-dark-trans-10);
+}
+.has-tertiary-dark-trans-10-background-color {
+  background-color: var(--tertiary-dark-trans-10);
+}
+.has-tertiary-dark-trans-10-border-color {
+  border-color: var(--tertiary-dark-trans-10);
+}
+.has-tertiary-dark-trans-20-color {
+  color: var(--tertiary-dark-trans-20);
+}
+.has-tertiary-dark-trans-20-background-color {
+  background-color: var(--tertiary-dark-trans-20);
+}
+.has-tertiary-dark-trans-20-border-color {
+  border-color: var(--tertiary-dark-trans-20);
+}
+.has-tertiary-dark-trans-30-color {
+  color: var(--tertiary-dark-trans-30);
+}
+.has-tertiary-dark-trans-30-background-color {
+  background-color: var(--tertiary-dark-trans-30);
+}
+.has-tertiary-dark-trans-30-border-color {
+  border-color: var(--tertiary-dark-trans-30);
+}
+.has-tertiary-dark-trans-40-color {
+  color: var(--tertiary-dark-trans-40);
+}
+.has-tertiary-dark-trans-40-background-color {
+  background-color: var(--tertiary-dark-trans-40);
+}
+.has-tertiary-dark-trans-40-border-color {
+  border-color: var(--tertiary-dark-trans-40);
+}
+.has-tertiary-dark-trans-50-color {
+  color: var(--tertiary-dark-trans-50);
+}
+.has-tertiary-dark-trans-50-background-color {
+  background-color: var(--tertiary-dark-trans-50);
+}
+.has-tertiary-dark-trans-50-border-color {
+  border-color: var(--tertiary-dark-trans-50);
+}
+.has-tertiary-dark-trans-60-color {
+  color: var(--tertiary-dark-trans-60);
+}
+.has-tertiary-dark-trans-60-background-color {
+  background-color: var(--tertiary-dark-trans-60);
+}
+.has-tertiary-dark-trans-60-border-color {
+  border-color: var(--tertiary-dark-trans-60);
+}
+.has-tertiary-dark-trans-70-color {
+  color: var(--tertiary-dark-trans-70);
+}
+.has-tertiary-dark-trans-70-background-color {
+  background-color: var(--tertiary-dark-trans-70);
+}
+.has-tertiary-dark-trans-70-border-color {
+  border-color: var(--tertiary-dark-trans-70);
+}
+.has-tertiary-dark-trans-80-color {
+  color: var(--tertiary-dark-trans-80);
+}
+.has-tertiary-dark-trans-80-background-color {
+  background-color: var(--tertiary-dark-trans-80);
+}
+.has-tertiary-dark-trans-80-border-color {
+  border-color: var(--tertiary-dark-trans-80);
+}
+.has-tertiary-dark-trans-90-color {
+  color: var(--tertiary-dark-trans-90);
+}
+.has-tertiary-dark-trans-90-background-color {
+  background-color: var(--tertiary-dark-trans-90);
+}
+.has-tertiary-dark-trans-90-border-color {
+  border-color: var(--tertiary-dark-trans-90);
+}
+.has-tertiary-ultra-dark-trans-10-color {
+  color: var(--tertiary-ultra-dark-trans-10);
+}
+.has-tertiary-ultra-dark-trans-10-background-color {
+  background-color: var(--tertiary-ultra-dark-trans-10);
+}
+.has-tertiary-ultra-dark-trans-10-border-color {
+  border-color: var(--tertiary-ultra-dark-trans-10);
+}
+.has-tertiary-ultra-dark-trans-20-color {
+  color: var(--tertiary-ultra-dark-trans-20);
+}
+.has-tertiary-ultra-dark-trans-20-background-color {
+  background-color: var(--tertiary-ultra-dark-trans-20);
+}
+.has-tertiary-ultra-dark-trans-20-border-color {
+  border-color: var(--tertiary-ultra-dark-trans-20);
+}
+.has-tertiary-ultra-dark-trans-30-color {
+  color: var(--tertiary-ultra-dark-trans-30);
+}
+.has-tertiary-ultra-dark-trans-30-background-color {
+  background-color: var(--tertiary-ultra-dark-trans-30);
+}
+.has-tertiary-ultra-dark-trans-30-border-color {
+  border-color: var(--tertiary-ultra-dark-trans-30);
+}
+.has-tertiary-ultra-dark-trans-40-color {
+  color: var(--tertiary-ultra-dark-trans-40);
+}
+.has-tertiary-ultra-dark-trans-40-background-color {
+  background-color: var(--tertiary-ultra-dark-trans-40);
+}
+.has-tertiary-ultra-dark-trans-40-border-color {
+  border-color: var(--tertiary-ultra-dark-trans-40);
+}
+.has-tertiary-ultra-dark-trans-50-color {
+  color: var(--tertiary-ultra-dark-trans-50);
+}
+.has-tertiary-ultra-dark-trans-50-background-color {
+  background-color: var(--tertiary-ultra-dark-trans-50);
+}
+.has-tertiary-ultra-dark-trans-50-border-color {
+  border-color: var(--tertiary-ultra-dark-trans-50);
+}
+.has-tertiary-ultra-dark-trans-60-color {
+  color: var(--tertiary-ultra-dark-trans-60);
+}
+.has-tertiary-ultra-dark-trans-60-background-color {
+  background-color: var(--tertiary-ultra-dark-trans-60);
+}
+.has-tertiary-ultra-dark-trans-60-border-color {
+  border-color: var(--tertiary-ultra-dark-trans-60);
+}
+.has-tertiary-ultra-dark-trans-70-color {
+  color: var(--tertiary-ultra-dark-trans-70);
+}
+.has-tertiary-ultra-dark-trans-70-background-color {
+  background-color: var(--tertiary-ultra-dark-trans-70);
+}
+.has-tertiary-ultra-dark-trans-70-border-color {
+  border-color: var(--tertiary-ultra-dark-trans-70);
+}
+.has-tertiary-ultra-dark-trans-80-color {
+  color: var(--tertiary-ultra-dark-trans-80);
+}
+.has-tertiary-ultra-dark-trans-80-background-color {
+  background-color: var(--tertiary-ultra-dark-trans-80);
+}
+.has-tertiary-ultra-dark-trans-80-border-color {
+  border-color: var(--tertiary-ultra-dark-trans-80);
+}
+.has-tertiary-ultra-dark-trans-90-color {
+  color: var(--tertiary-ultra-dark-trans-90);
+}
+.has-tertiary-ultra-dark-trans-90-background-color {
+  background-color: var(--tertiary-ultra-dark-trans-90);
+}
+.has-tertiary-ultra-dark-trans-90-border-color {
+  border-color: var(--tertiary-ultra-dark-trans-90);
+}
+.has-accent-color {
+  color: var(--accent);
+}
+.has-accent-background-color {
+  background-color: var(--accent);
+}
+.has-accent-border-color {
+  border-color: var(--accent);
+}
+.has-accent-hover-color {
+  color: var(--accent-hover);
+}
+.has-accent-hover-background-color {
+  background-color: var(--accent-hover);
+}
+.has-accent-hover-border-color {
+  border-color: var(--accent-hover);
+}
+.has-accent-ultra-light-color {
+  color: var(--accent-ultra-light);
+}
+.has-accent-ultra-light-background-color {
+  background-color: var(--accent-ultra-light);
+}
+.has-accent-ultra-light-border-color {
+  border-color: var(--accent-ultra-light);
+}
+.has-accent-light-color {
+  color: var(--accent-light);
+}
+.has-accent-light-background-color {
+  background-color: var(--accent-light);
+}
+.has-accent-light-border-color {
+  border-color: var(--accent-light);
+}
+.has-accent-semi-light-color {
+  color: var(--accent-semi-light);
+}
+.has-accent-semi-light-background-color {
+  background-color: var(--accent-semi-light);
+}
+.has-accent-semi-light-border-color {
+  border-color: var(--accent-semi-light);
+}
+.has-accent-semi-dark-color {
+  color: var(--accent-semi-dark);
+}
+.has-accent-semi-dark-background-color {
+  background-color: var(--accent-semi-dark);
+}
+.has-accent-semi-dark-border-color {
+  border-color: var(--accent-semi-dark);
+}
+.has-accent-dark-color {
+  color: var(--accent-dark);
+}
+.has-accent-dark-background-color {
+  background-color: var(--accent-dark);
+}
+.has-accent-dark-border-color {
+  border-color: var(--accent-dark);
+}
+.has-accent-ultra-dark-color {
+  color: var(--accent-ultra-dark);
+}
+.has-accent-ultra-dark-background-color {
+  background-color: var(--accent-ultra-dark);
+}
+.has-accent-ultra-dark-border-color {
+  border-color: var(--accent-ultra-dark);
+}
+.has-accent-comp-color {
+  color: var(--accent-comp);
+}
+.has-accent-comp-background-color {
+  background-color: var(--accent-comp);
+}
+.has-accent-comp-border-color {
+  border-color: var(--accent-comp);
+}
+.has-accent-medium-color {
+  color: var(--accent-medium);
+}
+.has-accent-medium-background-color {
+  background-color: var(--accent-medium);
+}
+.has-accent-medium-border-color {
+  border-color: var(--accent-medium);
+}
+.has-accent-trans-10-color {
+  color: var(--accent-trans-10);
+}
+.has-accent-trans-10-background-color {
+  background-color: var(--accent-trans-10);
+}
+.has-accent-trans-10-border-color {
+  border-color: var(--accent-trans-10);
+}
+.has-accent-trans-20-color {
+  color: var(--accent-trans-20);
+}
+.has-accent-trans-20-background-color {
+  background-color: var(--accent-trans-20);
+}
+.has-accent-trans-20-border-color {
+  border-color: var(--accent-trans-20);
+}
+.has-accent-trans-30-color {
+  color: var(--accent-trans-30);
+}
+.has-accent-trans-30-background-color {
+  background-color: var(--accent-trans-30);
+}
+.has-accent-trans-30-border-color {
+  border-color: var(--accent-trans-30);
+}
+.has-accent-trans-40-color {
+  color: var(--accent-trans-40);
+}
+.has-accent-trans-40-background-color {
+  background-color: var(--accent-trans-40);
+}
+.has-accent-trans-40-border-color {
+  border-color: var(--accent-trans-40);
+}
+.has-accent-trans-50-color {
+  color: var(--accent-trans-50);
+}
+.has-accent-trans-50-background-color {
+  background-color: var(--accent-trans-50);
+}
+.has-accent-trans-50-border-color {
+  border-color: var(--accent-trans-50);
+}
+.has-accent-trans-60-color {
+  color: var(--accent-trans-60);
+}
+.has-accent-trans-60-background-color {
+  background-color: var(--accent-trans-60);
+}
+.has-accent-trans-60-border-color {
+  border-color: var(--accent-trans-60);
+}
+.has-accent-trans-70-color {
+  color: var(--accent-trans-70);
+}
+.has-accent-trans-70-background-color {
+  background-color: var(--accent-trans-70);
+}
+.has-accent-trans-70-border-color {
+  border-color: var(--accent-trans-70);
+}
+.has-accent-trans-80-color {
+  color: var(--accent-trans-80);
+}
+.has-accent-trans-80-background-color {
+  background-color: var(--accent-trans-80);
+}
+.has-accent-trans-80-border-color {
+  border-color: var(--accent-trans-80);
+}
+.has-accent-trans-90-color {
+  color: var(--accent-trans-90);
+}
+.has-accent-trans-90-background-color {
+  background-color: var(--accent-trans-90);
+}
+.has-accent-trans-90-border-color {
+  border-color: var(--accent-trans-90);
+}
+.has-accent-light-trans-10-color {
+  color: var(--accent-light-trans-10);
+}
+.has-accent-light-trans-10-background-color {
+  background-color: var(--accent-light-trans-10);
+}
+.has-accent-light-trans-10-border-color {
+  border-color: var(--accent-light-trans-10);
+}
+.has-accent-light-trans-20-color {
+  color: var(--accent-light-trans-20);
+}
+.has-accent-light-trans-20-background-color {
+  background-color: var(--accent-light-trans-20);
+}
+.has-accent-light-trans-20-border-color {
+  border-color: var(--accent-light-trans-20);
+}
+.has-accent-light-trans-30-color {
+  color: var(--accent-light-trans-30);
+}
+.has-accent-light-trans-30-background-color {
+  background-color: var(--accent-light-trans-30);
+}
+.has-accent-light-trans-30-border-color {
+  border-color: var(--accent-light-trans-30);
+}
+.has-accent-light-trans-40-color {
+  color: var(--accent-light-trans-40);
+}
+.has-accent-light-trans-40-background-color {
+  background-color: var(--accent-light-trans-40);
+}
+.has-accent-light-trans-40-border-color {
+  border-color: var(--accent-light-trans-40);
+}
+.has-accent-light-trans-50-color {
+  color: var(--accent-light-trans-50);
+}
+.has-accent-light-trans-50-background-color {
+  background-color: var(--accent-light-trans-50);
+}
+.has-accent-light-trans-50-border-color {
+  border-color: var(--accent-light-trans-50);
+}
+.has-accent-light-trans-60-color {
+  color: var(--accent-light-trans-60);
+}
+.has-accent-light-trans-60-background-color {
+  background-color: var(--accent-light-trans-60);
+}
+.has-accent-light-trans-60-border-color {
+  border-color: var(--accent-light-trans-60);
+}
+.has-accent-light-trans-70-color {
+  color: var(--accent-light-trans-70);
+}
+.has-accent-light-trans-70-background-color {
+  background-color: var(--accent-light-trans-70);
+}
+.has-accent-light-trans-70-border-color {
+  border-color: var(--accent-light-trans-70);
+}
+.has-accent-light-trans-80-color {
+  color: var(--accent-light-trans-80);
+}
+.has-accent-light-trans-80-background-color {
+  background-color: var(--accent-light-trans-80);
+}
+.has-accent-light-trans-80-border-color {
+  border-color: var(--accent-light-trans-80);
+}
+.has-accent-light-trans-90-color {
+  color: var(--accent-light-trans-90);
+}
+.has-accent-light-trans-90-background-color {
+  background-color: var(--accent-light-trans-90);
+}
+.has-accent-light-trans-90-border-color {
+  border-color: var(--accent-light-trans-90);
+}
+.has-accent-dark-trans-10-color {
+  color: var(--accent-dark-trans-10);
+}
+.has-accent-dark-trans-10-background-color {
+  background-color: var(--accent-dark-trans-10);
+}
+.has-accent-dark-trans-10-border-color {
+  border-color: var(--accent-dark-trans-10);
+}
+.has-accent-dark-trans-20-color {
+  color: var(--accent-dark-trans-20);
+}
+.has-accent-dark-trans-20-background-color {
+  background-color: var(--accent-dark-trans-20);
+}
+.has-accent-dark-trans-20-border-color {
+  border-color: var(--accent-dark-trans-20);
+}
+.has-accent-dark-trans-30-color {
+  color: var(--accent-dark-trans-30);
+}
+.has-accent-dark-trans-30-background-color {
+  background-color: var(--accent-dark-trans-30);
+}
+.has-accent-dark-trans-30-border-color {
+  border-color: var(--accent-dark-trans-30);
+}
+.has-accent-dark-trans-40-color {
+  color: var(--accent-dark-trans-40);
+}
+.has-accent-dark-trans-40-background-color {
+  background-color: var(--accent-dark-trans-40);
+}
+.has-accent-dark-trans-40-border-color {
+  border-color: var(--accent-dark-trans-40);
+}
+.has-accent-dark-trans-50-color {
+  color: var(--accent-dark-trans-50);
+}
+.has-accent-dark-trans-50-background-color {
+  background-color: var(--accent-dark-trans-50);
+}
+.has-accent-dark-trans-50-border-color {
+  border-color: var(--accent-dark-trans-50);
+}
+.has-accent-dark-trans-60-color {
+  color: var(--accent-dark-trans-60);
+}
+.has-accent-dark-trans-60-background-color {
+  background-color: var(--accent-dark-trans-60);
+}
+.has-accent-dark-trans-60-border-color {
+  border-color: var(--accent-dark-trans-60);
+}
+.has-accent-dark-trans-70-color {
+  color: var(--accent-dark-trans-70);
+}
+.has-accent-dark-trans-70-background-color {
+  background-color: var(--accent-dark-trans-70);
+}
+.has-accent-dark-trans-70-border-color {
+  border-color: var(--accent-dark-trans-70);
+}
+.has-accent-dark-trans-80-color {
+  color: var(--accent-dark-trans-80);
+}
+.has-accent-dark-trans-80-background-color {
+  background-color: var(--accent-dark-trans-80);
+}
+.has-accent-dark-trans-80-border-color {
+  border-color: var(--accent-dark-trans-80);
+}
+.has-accent-dark-trans-90-color {
+  color: var(--accent-dark-trans-90);
+}
+.has-accent-dark-trans-90-background-color {
+  background-color: var(--accent-dark-trans-90);
+}
+.has-accent-dark-trans-90-border-color {
+  border-color: var(--accent-dark-trans-90);
+}
+.has-accent-ultra-dark-trans-10-color {
+  color: var(--accent-ultra-dark-trans-10);
+}
+.has-accent-ultra-dark-trans-10-background-color {
+  background-color: var(--accent-ultra-dark-trans-10);
+}
+.has-accent-ultra-dark-trans-10-border-color {
+  border-color: var(--accent-ultra-dark-trans-10);
+}
+.has-accent-ultra-dark-trans-20-color {
+  color: var(--accent-ultra-dark-trans-20);
+}
+.has-accent-ultra-dark-trans-20-background-color {
+  background-color: var(--accent-ultra-dark-trans-20);
+}
+.has-accent-ultra-dark-trans-20-border-color {
+  border-color: var(--accent-ultra-dark-trans-20);
+}
+.has-accent-ultra-dark-trans-30-color {
+  color: var(--accent-ultra-dark-trans-30);
+}
+.has-accent-ultra-dark-trans-30-background-color {
+  background-color: var(--accent-ultra-dark-trans-30);
+}
+.has-accent-ultra-dark-trans-30-border-color {
+  border-color: var(--accent-ultra-dark-trans-30);
+}
+.has-accent-ultra-dark-trans-40-color {
+  color: var(--accent-ultra-dark-trans-40);
+}
+.has-accent-ultra-dark-trans-40-background-color {
+  background-color: var(--accent-ultra-dark-trans-40);
+}
+.has-accent-ultra-dark-trans-40-border-color {
+  border-color: var(--accent-ultra-dark-trans-40);
+}
+.has-accent-ultra-dark-trans-50-color {
+  color: var(--accent-ultra-dark-trans-50);
+}
+.has-accent-ultra-dark-trans-50-background-color {
+  background-color: var(--accent-ultra-dark-trans-50);
+}
+.has-accent-ultra-dark-trans-50-border-color {
+  border-color: var(--accent-ultra-dark-trans-50);
+}
+.has-accent-ultra-dark-trans-60-color {
+  color: var(--accent-ultra-dark-trans-60);
+}
+.has-accent-ultra-dark-trans-60-background-color {
+  background-color: var(--accent-ultra-dark-trans-60);
+}
+.has-accent-ultra-dark-trans-60-border-color {
+  border-color: var(--accent-ultra-dark-trans-60);
+}
+.has-accent-ultra-dark-trans-70-color {
+  color: var(--accent-ultra-dark-trans-70);
+}
+.has-accent-ultra-dark-trans-70-background-color {
+  background-color: var(--accent-ultra-dark-trans-70);
+}
+.has-accent-ultra-dark-trans-70-border-color {
+  border-color: var(--accent-ultra-dark-trans-70);
+}
+.has-accent-ultra-dark-trans-80-color {
+  color: var(--accent-ultra-dark-trans-80);
+}
+.has-accent-ultra-dark-trans-80-background-color {
+  background-color: var(--accent-ultra-dark-trans-80);
+}
+.has-accent-ultra-dark-trans-80-border-color {
+  border-color: var(--accent-ultra-dark-trans-80);
+}
+.has-accent-ultra-dark-trans-90-color {
+  color: var(--accent-ultra-dark-trans-90);
+}
+.has-accent-ultra-dark-trans-90-background-color {
+  background-color: var(--accent-ultra-dark-trans-90);
+}
+.has-accent-ultra-dark-trans-90-border-color {
+  border-color: var(--accent-ultra-dark-trans-90);
+}
+.has-base-color {
+  color: var(--base);
+}
+.has-base-background-color {
+  background-color: var(--base);
+}
+.has-base-border-color {
+  border-color: var(--base);
+}
+.has-base-hover-color {
+  color: var(--base-hover);
+}
+.has-base-hover-background-color {
+  background-color: var(--base-hover);
+}
+.has-base-hover-border-color {
+  border-color: var(--base-hover);
+}
+.has-base-ultra-light-color {
+  color: var(--base-ultra-light);
+}
+.has-base-ultra-light-background-color {
+  background-color: var(--base-ultra-light);
+}
+.has-base-ultra-light-border-color {
+  border-color: var(--base-ultra-light);
+}
+.has-base-light-color {
+  color: var(--base-light);
+}
+.has-base-light-background-color {
+  background-color: var(--base-light);
+}
+.has-base-light-border-color {
+  border-color: var(--base-light);
+}
+.has-base-semi-light-color {
+  color: var(--base-semi-light);
+}
+.has-base-semi-light-background-color {
+  background-color: var(--base-semi-light);
+}
+.has-base-semi-light-border-color {
+  border-color: var(--base-semi-light);
+}
+.has-base-semi-dark-color {
+  color: var(--base-semi-dark);
+}
+.has-base-semi-dark-background-color {
+  background-color: var(--base-semi-dark);
+}
+.has-base-semi-dark-border-color {
+  border-color: var(--base-semi-dark);
+}
+.has-base-dark-color {
+  color: var(--base-dark);
+}
+.has-base-dark-background-color {
+  background-color: var(--base-dark);
+}
+.has-base-dark-border-color {
+  border-color: var(--base-dark);
+}
+.has-base-ultra-dark-color {
+  color: var(--base-ultra-dark);
+}
+.has-base-ultra-dark-background-color {
+  background-color: var(--base-ultra-dark);
+}
+.has-base-ultra-dark-border-color {
+  border-color: var(--base-ultra-dark);
+}
+.has-base-comp-color {
+  color: var(--base-comp);
+}
+.has-base-comp-background-color {
+  background-color: var(--base-comp);
+}
+.has-base-comp-border-color {
+  border-color: var(--base-comp);
+}
+.has-base-medium-color {
+  color: var(--base-medium);
+}
+.has-base-medium-background-color {
+  background-color: var(--base-medium);
+}
+.has-base-medium-border-color {
+  border-color: var(--base-medium);
+}
+.has-base-trans-10-color {
+  color: var(--base-trans-10);
+}
+.has-base-trans-10-background-color {
+  background-color: var(--base-trans-10);
+}
+.has-base-trans-10-border-color {
+  border-color: var(--base-trans-10);
+}
+.has-base-trans-20-color {
+  color: var(--base-trans-20);
+}
+.has-base-trans-20-background-color {
+  background-color: var(--base-trans-20);
+}
+.has-base-trans-20-border-color {
+  border-color: var(--base-trans-20);
+}
+.has-base-trans-30-color {
+  color: var(--base-trans-30);
+}
+.has-base-trans-30-background-color {
+  background-color: var(--base-trans-30);
+}
+.has-base-trans-30-border-color {
+  border-color: var(--base-trans-30);
+}
+.has-base-trans-40-color {
+  color: var(--base-trans-40);
+}
+.has-base-trans-40-background-color {
+  background-color: var(--base-trans-40);
+}
+.has-base-trans-40-border-color {
+  border-color: var(--base-trans-40);
+}
+.has-base-trans-50-color {
+  color: var(--base-trans-50);
+}
+.has-base-trans-50-background-color {
+  background-color: var(--base-trans-50);
+}
+.has-base-trans-50-border-color {
+  border-color: var(--base-trans-50);
+}
+.has-base-trans-60-color {
+  color: var(--base-trans-60);
+}
+.has-base-trans-60-background-color {
+  background-color: var(--base-trans-60);
+}
+.has-base-trans-60-border-color {
+  border-color: var(--base-trans-60);
+}
+.has-base-trans-70-color {
+  color: var(--base-trans-70);
+}
+.has-base-trans-70-background-color {
+  background-color: var(--base-trans-70);
+}
+.has-base-trans-70-border-color {
+  border-color: var(--base-trans-70);
+}
+.has-base-trans-80-color {
+  color: var(--base-trans-80);
+}
+.has-base-trans-80-background-color {
+  background-color: var(--base-trans-80);
+}
+.has-base-trans-80-border-color {
+  border-color: var(--base-trans-80);
+}
+.has-base-trans-90-color {
+  color: var(--base-trans-90);
+}
+.has-base-trans-90-background-color {
+  background-color: var(--base-trans-90);
+}
+.has-base-trans-90-border-color {
+  border-color: var(--base-trans-90);
+}
+.has-base-light-trans-10-color {
+  color: var(--base-light-trans-10);
+}
+.has-base-light-trans-10-background-color {
+  background-color: var(--base-light-trans-10);
+}
+.has-base-light-trans-10-border-color {
+  border-color: var(--base-light-trans-10);
+}
+.has-base-light-trans-20-color {
+  color: var(--base-light-trans-20);
+}
+.has-base-light-trans-20-background-color {
+  background-color: var(--base-light-trans-20);
+}
+.has-base-light-trans-20-border-color {
+  border-color: var(--base-light-trans-20);
+}
+.has-base-light-trans-30-color {
+  color: var(--base-light-trans-30);
+}
+.has-base-light-trans-30-background-color {
+  background-color: var(--base-light-trans-30);
+}
+.has-base-light-trans-30-border-color {
+  border-color: var(--base-light-trans-30);
+}
+.has-base-light-trans-40-color {
+  color: var(--base-light-trans-40);
+}
+.has-base-light-trans-40-background-color {
+  background-color: var(--base-light-trans-40);
+}
+.has-base-light-trans-40-border-color {
+  border-color: var(--base-light-trans-40);
+}
+.has-base-light-trans-50-color {
+  color: var(--base-light-trans-50);
+}
+.has-base-light-trans-50-background-color {
+  background-color: var(--base-light-trans-50);
+}
+.has-base-light-trans-50-border-color {
+  border-color: var(--base-light-trans-50);
+}
+.has-base-light-trans-60-color {
+  color: var(--base-light-trans-60);
+}
+.has-base-light-trans-60-background-color {
+  background-color: var(--base-light-trans-60);
+}
+.has-base-light-trans-60-border-color {
+  border-color: var(--base-light-trans-60);
+}
+.has-base-light-trans-70-color {
+  color: var(--base-light-trans-70);
+}
+.has-base-light-trans-70-background-color {
+  background-color: var(--base-light-trans-70);
+}
+.has-base-light-trans-70-border-color {
+  border-color: var(--base-light-trans-70);
+}
+.has-base-light-trans-80-color {
+  color: var(--base-light-trans-80);
+}
+.has-base-light-trans-80-background-color {
+  background-color: var(--base-light-trans-80);
+}
+.has-base-light-trans-80-border-color {
+  border-color: var(--base-light-trans-80);
+}
+.has-base-light-trans-90-color {
+  color: var(--base-light-trans-90);
+}
+.has-base-light-trans-90-background-color {
+  background-color: var(--base-light-trans-90);
+}
+.has-base-light-trans-90-border-color {
+  border-color: var(--base-light-trans-90);
+}
+.has-base-dark-trans-10-color {
+  color: var(--base-dark-trans-10);
+}
+.has-base-dark-trans-10-background-color {
+  background-color: var(--base-dark-trans-10);
+}
+.has-base-dark-trans-10-border-color {
+  border-color: var(--base-dark-trans-10);
+}
+.has-base-dark-trans-20-color {
+  color: var(--base-dark-trans-20);
+}
+.has-base-dark-trans-20-background-color {
+  background-color: var(--base-dark-trans-20);
+}
+.has-base-dark-trans-20-border-color {
+  border-color: var(--base-dark-trans-20);
+}
+.has-base-dark-trans-30-color {
+  color: var(--base-dark-trans-30);
+}
+.has-base-dark-trans-30-background-color {
+  background-color: var(--base-dark-trans-30);
+}
+.has-base-dark-trans-30-border-color {
+  border-color: var(--base-dark-trans-30);
+}
+.has-base-dark-trans-40-color {
+  color: var(--base-dark-trans-40);
+}
+.has-base-dark-trans-40-background-color {
+  background-color: var(--base-dark-trans-40);
+}
+.has-base-dark-trans-40-border-color {
+  border-color: var(--base-dark-trans-40);
+}
+.has-base-dark-trans-50-color {
+  color: var(--base-dark-trans-50);
+}
+.has-base-dark-trans-50-background-color {
+  background-color: var(--base-dark-trans-50);
+}
+.has-base-dark-trans-50-border-color {
+  border-color: var(--base-dark-trans-50);
+}
+.has-base-dark-trans-60-color {
+  color: var(--base-dark-trans-60);
+}
+.has-base-dark-trans-60-background-color {
+  background-color: var(--base-dark-trans-60);
+}
+.has-base-dark-trans-60-border-color {
+  border-color: var(--base-dark-trans-60);
+}
+.has-base-dark-trans-70-color {
+  color: var(--base-dark-trans-70);
+}
+.has-base-dark-trans-70-background-color {
+  background-color: var(--base-dark-trans-70);
+}
+.has-base-dark-trans-70-border-color {
+  border-color: var(--base-dark-trans-70);
+}
+.has-base-dark-trans-80-color {
+  color: var(--base-dark-trans-80);
+}
+.has-base-dark-trans-80-background-color {
+  background-color: var(--base-dark-trans-80);
+}
+.has-base-dark-trans-80-border-color {
+  border-color: var(--base-dark-trans-80);
+}
+.has-base-dark-trans-90-color {
+  color: var(--base-dark-trans-90);
+}
+.has-base-dark-trans-90-background-color {
+  background-color: var(--base-dark-trans-90);
+}
+.has-base-dark-trans-90-border-color {
+  border-color: var(--base-dark-trans-90);
+}
+.has-base-ultra-dark-trans-10-color {
+  color: var(--base-ultra-dark-trans-10);
+}
+.has-base-ultra-dark-trans-10-background-color {
+  background-color: var(--base-ultra-dark-trans-10);
+}
+.has-base-ultra-dark-trans-10-border-color {
+  border-color: var(--base-ultra-dark-trans-10);
+}
+.has-base-ultra-dark-trans-20-color {
+  color: var(--base-ultra-dark-trans-20);
+}
+.has-base-ultra-dark-trans-20-background-color {
+  background-color: var(--base-ultra-dark-trans-20);
+}
+.has-base-ultra-dark-trans-20-border-color {
+  border-color: var(--base-ultra-dark-trans-20);
+}
+.has-base-ultra-dark-trans-30-color {
+  color: var(--base-ultra-dark-trans-30);
+}
+.has-base-ultra-dark-trans-30-background-color {
+  background-color: var(--base-ultra-dark-trans-30);
+}
+.has-base-ultra-dark-trans-30-border-color {
+  border-color: var(--base-ultra-dark-trans-30);
+}
+.has-base-ultra-dark-trans-40-color {
+  color: var(--base-ultra-dark-trans-40);
+}
+.has-base-ultra-dark-trans-40-background-color {
+  background-color: var(--base-ultra-dark-trans-40);
+}
+.has-base-ultra-dark-trans-40-border-color {
+  border-color: var(--base-ultra-dark-trans-40);
+}
+.has-base-ultra-dark-trans-50-color {
+  color: var(--base-ultra-dark-trans-50);
+}
+.has-base-ultra-dark-trans-50-background-color {
+  background-color: var(--base-ultra-dark-trans-50);
+}
+.has-base-ultra-dark-trans-50-border-color {
+  border-color: var(--base-ultra-dark-trans-50);
+}
+.has-base-ultra-dark-trans-60-color {
+  color: var(--base-ultra-dark-trans-60);
+}
+.has-base-ultra-dark-trans-60-background-color {
+  background-color: var(--base-ultra-dark-trans-60);
+}
+.has-base-ultra-dark-trans-60-border-color {
+  border-color: var(--base-ultra-dark-trans-60);
+}
+.has-base-ultra-dark-trans-70-color {
+  color: var(--base-ultra-dark-trans-70);
+}
+.has-base-ultra-dark-trans-70-background-color {
+  background-color: var(--base-ultra-dark-trans-70);
+}
+.has-base-ultra-dark-trans-70-border-color {
+  border-color: var(--base-ultra-dark-trans-70);
+}
+.has-base-ultra-dark-trans-80-color {
+  color: var(--base-ultra-dark-trans-80);
+}
+.has-base-ultra-dark-trans-80-background-color {
+  background-color: var(--base-ultra-dark-trans-80);
+}
+.has-base-ultra-dark-trans-80-border-color {
+  border-color: var(--base-ultra-dark-trans-80);
+}
+.has-base-ultra-dark-trans-90-color {
+  color: var(--base-ultra-dark-trans-90);
+}
+.has-base-ultra-dark-trans-90-background-color {
+  background-color: var(--base-ultra-dark-trans-90);
+}
+.has-base-ultra-dark-trans-90-border-color {
+  border-color: var(--base-ultra-dark-trans-90);
+}
+.has-neutral-color {
+  color: var(--neutral);
+}
+.has-neutral-background-color {
+  background-color: var(--neutral);
+}
+.has-neutral-border-color {
+  border-color: var(--neutral);
+}
+.has-neutral-hover-color {
+  color: var(--neutral-hover);
+}
+.has-neutral-hover-background-color {
+  background-color: var(--neutral-hover);
+}
+.has-neutral-hover-border-color {
+  border-color: var(--neutral-hover);
+}
+.has-neutral-ultra-light-color {
+  color: var(--neutral-ultra-light);
+}
+.has-neutral-ultra-light-background-color {
+  background-color: var(--neutral-ultra-light);
+}
+.has-neutral-ultra-light-border-color {
+  border-color: var(--neutral-ultra-light);
+}
+.has-neutral-light-color {
+  color: var(--neutral-light);
+}
+.has-neutral-light-background-color {
+  background-color: var(--neutral-light);
+}
+.has-neutral-light-border-color {
+  border-color: var(--neutral-light);
+}
+.has-neutral-semi-light-color {
+  color: var(--neutral-semi-light);
+}
+.has-neutral-semi-light-background-color {
+  background-color: var(--neutral-semi-light);
+}
+.has-neutral-semi-light-border-color {
+  border-color: var(--neutral-semi-light);
+}
+.has-neutral-semi-dark-color {
+  color: var(--neutral-semi-dark);
+}
+.has-neutral-semi-dark-background-color {
+  background-color: var(--neutral-semi-dark);
+}
+.has-neutral-semi-dark-border-color {
+  border-color: var(--neutral-semi-dark);
+}
+.has-neutral-dark-color {
+  color: var(--neutral-dark);
+}
+.has-neutral-dark-background-color {
+  background-color: var(--neutral-dark);
+}
+.has-neutral-dark-border-color {
+  border-color: var(--neutral-dark);
+}
+.has-neutral-ultra-dark-color {
+  color: var(--neutral-ultra-dark);
+}
+.has-neutral-ultra-dark-background-color {
+  background-color: var(--neutral-ultra-dark);
+}
+.has-neutral-ultra-dark-border-color {
+  border-color: var(--neutral-ultra-dark);
+}
+.has-neutral-comp-color {
+  color: var(--neutral-comp);
+}
+.has-neutral-comp-background-color {
+  background-color: var(--neutral-comp);
+}
+.has-neutral-comp-border-color {
+  border-color: var(--neutral-comp);
+}
+.has-neutral-medium-color {
+  color: var(--neutral-medium);
+}
+.has-neutral-medium-background-color {
+  background-color: var(--neutral-medium);
+}
+.has-neutral-medium-border-color {
+  border-color: var(--neutral-medium);
+}
+.has-neutral-trans-10-color {
+  color: var(--neutral-trans-10);
+}
+.has-neutral-trans-10-background-color {
+  background-color: var(--neutral-trans-10);
+}
+.has-neutral-trans-10-border-color {
+  border-color: var(--neutral-trans-10);
+}
+.has-neutral-trans-20-color {
+  color: var(--neutral-trans-20);
+}
+.has-neutral-trans-20-background-color {
+  background-color: var(--neutral-trans-20);
+}
+.has-neutral-trans-20-border-color {
+  border-color: var(--neutral-trans-20);
+}
+.has-neutral-trans-30-color {
+  color: var(--neutral-trans-30);
+}
+.has-neutral-trans-30-background-color {
+  background-color: var(--neutral-trans-30);
+}
+.has-neutral-trans-30-border-color {
+  border-color: var(--neutral-trans-30);
+}
+.has-neutral-trans-40-color {
+  color: var(--neutral-trans-40);
+}
+.has-neutral-trans-40-background-color {
+  background-color: var(--neutral-trans-40);
+}
+.has-neutral-trans-40-border-color {
+  border-color: var(--neutral-trans-40);
+}
+.has-neutral-trans-50-color {
+  color: var(--neutral-trans-50);
+}
+.has-neutral-trans-50-background-color {
+  background-color: var(--neutral-trans-50);
+}
+.has-neutral-trans-50-border-color {
+  border-color: var(--neutral-trans-50);
+}
+.has-neutral-trans-60-color {
+  color: var(--neutral-trans-60);
+}
+.has-neutral-trans-60-background-color {
+  background-color: var(--neutral-trans-60);
+}
+.has-neutral-trans-60-border-color {
+  border-color: var(--neutral-trans-60);
+}
+.has-neutral-trans-70-color {
+  color: var(--neutral-trans-70);
+}
+.has-neutral-trans-70-background-color {
+  background-color: var(--neutral-trans-70);
+}
+.has-neutral-trans-70-border-color {
+  border-color: var(--neutral-trans-70);
+}
+.has-neutral-trans-80-color {
+  color: var(--neutral-trans-80);
+}
+.has-neutral-trans-80-background-color {
+  background-color: var(--neutral-trans-80);
+}
+.has-neutral-trans-80-border-color {
+  border-color: var(--neutral-trans-80);
+}
+.has-neutral-trans-90-color {
+  color: var(--neutral-trans-90);
+}
+.has-neutral-trans-90-background-color {
+  background-color: var(--neutral-trans-90);
+}
+.has-neutral-trans-90-border-color {
+  border-color: var(--neutral-trans-90);
+}
+.has-neutral-light-trans-10-color {
+  color: var(--neutral-light-trans-10);
+}
+.has-neutral-light-trans-10-background-color {
+  background-color: var(--neutral-light-trans-10);
+}
+.has-neutral-light-trans-10-border-color {
+  border-color: var(--neutral-light-trans-10);
+}
+.has-neutral-light-trans-20-color {
+  color: var(--neutral-light-trans-20);
+}
+.has-neutral-light-trans-20-background-color {
+  background-color: var(--neutral-light-trans-20);
+}
+.has-neutral-light-trans-20-border-color {
+  border-color: var(--neutral-light-trans-20);
+}
+.has-neutral-light-trans-30-color {
+  color: var(--neutral-light-trans-30);
+}
+.has-neutral-light-trans-30-background-color {
+  background-color: var(--neutral-light-trans-30);
+}
+.has-neutral-light-trans-30-border-color {
+  border-color: var(--neutral-light-trans-30);
+}
+.has-neutral-light-trans-40-color {
+  color: var(--neutral-light-trans-40);
+}
+.has-neutral-light-trans-40-background-color {
+  background-color: var(--neutral-light-trans-40);
+}
+.has-neutral-light-trans-40-border-color {
+  border-color: var(--neutral-light-trans-40);
+}
+.has-neutral-light-trans-50-color {
+  color: var(--neutral-light-trans-50);
+}
+.has-neutral-light-trans-50-background-color {
+  background-color: var(--neutral-light-trans-50);
+}
+.has-neutral-light-trans-50-border-color {
+  border-color: var(--neutral-light-trans-50);
+}
+.has-neutral-light-trans-60-color {
+  color: var(--neutral-light-trans-60);
+}
+.has-neutral-light-trans-60-background-color {
+  background-color: var(--neutral-light-trans-60);
+}
+.has-neutral-light-trans-60-border-color {
+  border-color: var(--neutral-light-trans-60);
+}
+.has-neutral-light-trans-70-color {
+  color: var(--neutral-light-trans-70);
+}
+.has-neutral-light-trans-70-background-color {
+  background-color: var(--neutral-light-trans-70);
+}
+.has-neutral-light-trans-70-border-color {
+  border-color: var(--neutral-light-trans-70);
+}
+.has-neutral-light-trans-80-color {
+  color: var(--neutral-light-trans-80);
+}
+.has-neutral-light-trans-80-background-color {
+  background-color: var(--neutral-light-trans-80);
+}
+.has-neutral-light-trans-80-border-color {
+  border-color: var(--neutral-light-trans-80);
+}
+.has-neutral-light-trans-90-color {
+  color: var(--neutral-light-trans-90);
+}
+.has-neutral-light-trans-90-background-color {
+  background-color: var(--neutral-light-trans-90);
+}
+.has-neutral-light-trans-90-border-color {
+  border-color: var(--neutral-light-trans-90);
+}
+.has-neutral-dark-trans-10-color {
+  color: var(--neutral-dark-trans-10);
+}
+.has-neutral-dark-trans-10-background-color {
+  background-color: var(--neutral-dark-trans-10);
+}
+.has-neutral-dark-trans-10-border-color {
+  border-color: var(--neutral-dark-trans-10);
+}
+.has-neutral-dark-trans-20-color {
+  color: var(--neutral-dark-trans-20);
+}
+.has-neutral-dark-trans-20-background-color {
+  background-color: var(--neutral-dark-trans-20);
+}
+.has-neutral-dark-trans-20-border-color {
+  border-color: var(--neutral-dark-trans-20);
+}
+.has-neutral-dark-trans-30-color {
+  color: var(--neutral-dark-trans-30);
+}
+.has-neutral-dark-trans-30-background-color {
+  background-color: var(--neutral-dark-trans-30);
+}
+.has-neutral-dark-trans-30-border-color {
+  border-color: var(--neutral-dark-trans-30);
+}
+.has-neutral-dark-trans-40-color {
+  color: var(--neutral-dark-trans-40);
+}
+.has-neutral-dark-trans-40-background-color {
+  background-color: var(--neutral-dark-trans-40);
+}
+.has-neutral-dark-trans-40-border-color {
+  border-color: var(--neutral-dark-trans-40);
+}
+.has-neutral-dark-trans-50-color {
+  color: var(--neutral-dark-trans-50);
+}
+.has-neutral-dark-trans-50-background-color {
+  background-color: var(--neutral-dark-trans-50);
+}
+.has-neutral-dark-trans-50-border-color {
+  border-color: var(--neutral-dark-trans-50);
+}
+.has-neutral-dark-trans-60-color {
+  color: var(--neutral-dark-trans-60);
+}
+.has-neutral-dark-trans-60-background-color {
+  background-color: var(--neutral-dark-trans-60);
+}
+.has-neutral-dark-trans-60-border-color {
+  border-color: var(--neutral-dark-trans-60);
+}
+.has-neutral-dark-trans-70-color {
+  color: var(--neutral-dark-trans-70);
+}
+.has-neutral-dark-trans-70-background-color {
+  background-color: var(--neutral-dark-trans-70);
+}
+.has-neutral-dark-trans-70-border-color {
+  border-color: var(--neutral-dark-trans-70);
+}
+.has-neutral-dark-trans-80-color {
+  color: var(--neutral-dark-trans-80);
+}
+.has-neutral-dark-trans-80-background-color {
+  background-color: var(--neutral-dark-trans-80);
+}
+.has-neutral-dark-trans-80-border-color {
+  border-color: var(--neutral-dark-trans-80);
+}
+.has-neutral-dark-trans-90-color {
+  color: var(--neutral-dark-trans-90);
+}
+.has-neutral-dark-trans-90-background-color {
+  background-color: var(--neutral-dark-trans-90);
+}
+.has-neutral-dark-trans-90-border-color {
+  border-color: var(--neutral-dark-trans-90);
+}
+.has-neutral-ultra-dark-trans-10-color {
+  color: var(--neutral-ultra-dark-trans-10);
+}
+.has-neutral-ultra-dark-trans-10-background-color {
+  background-color: var(--neutral-ultra-dark-trans-10);
+}
+.has-neutral-ultra-dark-trans-10-border-color {
+  border-color: var(--neutral-ultra-dark-trans-10);
+}
+.has-neutral-ultra-dark-trans-20-color {
+  color: var(--neutral-ultra-dark-trans-20);
+}
+.has-neutral-ultra-dark-trans-20-background-color {
+  background-color: var(--neutral-ultra-dark-trans-20);
+}
+.has-neutral-ultra-dark-trans-20-border-color {
+  border-color: var(--neutral-ultra-dark-trans-20);
+}
+.has-neutral-ultra-dark-trans-30-color {
+  color: var(--neutral-ultra-dark-trans-30);
+}
+.has-neutral-ultra-dark-trans-30-background-color {
+  background-color: var(--neutral-ultra-dark-trans-30);
+}
+.has-neutral-ultra-dark-trans-30-border-color {
+  border-color: var(--neutral-ultra-dark-trans-30);
+}
+.has-neutral-ultra-dark-trans-40-color {
+  color: var(--neutral-ultra-dark-trans-40);
+}
+.has-neutral-ultra-dark-trans-40-background-color {
+  background-color: var(--neutral-ultra-dark-trans-40);
+}
+.has-neutral-ultra-dark-trans-40-border-color {
+  border-color: var(--neutral-ultra-dark-trans-40);
+}
+.has-neutral-ultra-dark-trans-50-color {
+  color: var(--neutral-ultra-dark-trans-50);
+}
+.has-neutral-ultra-dark-trans-50-background-color {
+  background-color: var(--neutral-ultra-dark-trans-50);
+}
+.has-neutral-ultra-dark-trans-50-border-color {
+  border-color: var(--neutral-ultra-dark-trans-50);
+}
+.has-neutral-ultra-dark-trans-60-color {
+  color: var(--neutral-ultra-dark-trans-60);
+}
+.has-neutral-ultra-dark-trans-60-background-color {
+  background-color: var(--neutral-ultra-dark-trans-60);
+}
+.has-neutral-ultra-dark-trans-60-border-color {
+  border-color: var(--neutral-ultra-dark-trans-60);
+}
+.has-neutral-ultra-dark-trans-70-color {
+  color: var(--neutral-ultra-dark-trans-70);
+}
+.has-neutral-ultra-dark-trans-70-background-color {
+  background-color: var(--neutral-ultra-dark-trans-70);
+}
+.has-neutral-ultra-dark-trans-70-border-color {
+  border-color: var(--neutral-ultra-dark-trans-70);
+}
+.has-neutral-ultra-dark-trans-80-color {
+  color: var(--neutral-ultra-dark-trans-80);
+}
+.has-neutral-ultra-dark-trans-80-background-color {
+  background-color: var(--neutral-ultra-dark-trans-80);
+}
+.has-neutral-ultra-dark-trans-80-border-color {
+  border-color: var(--neutral-ultra-dark-trans-80);
+}
+.has-neutral-ultra-dark-trans-90-color {
+  color: var(--neutral-ultra-dark-trans-90);
+}
+.has-neutral-ultra-dark-trans-90-background-color {
+  background-color: var(--neutral-ultra-dark-trans-90);
+}
+.has-neutral-ultra-dark-trans-90-border-color {
+  border-color: var(--neutral-ultra-dark-trans-90);
+}
+.has-white-color {
+  color: var(--white);
+}
+.has-white-background-color {
+  background-color: var(--white);
+}
+.has-white-border-color {
+  border-color: var(--white);
+}
+.has-black-color {
+  color: var(--black);
+}
+.has-black-background-color {
+  background-color: var(--black);
+}
+.has-black-border-color {
+  border-color: var(--black);
+}
+.has-white-trans-10-color {
+  color: var(--white-trans-10);
+}
+.has-white-trans-10-background-color {
+  background-color: var(--white-trans-10);
+}
+.has-white-trans-10-border-color {
+  border-color: var(--white-trans-10);
+}
+.has-white-trans-20-color {
+  color: var(--white-trans-20);
+}
+.has-white-trans-20-background-color {
+  background-color: var(--white-trans-20);
+}
+.has-white-trans-20-border-color {
+  border-color: var(--white-trans-20);
+}
+.has-white-trans-30-color {
+  color: var(--white-trans-30);
+}
+.has-white-trans-30-background-color {
+  background-color: var(--white-trans-30);
+}
+.has-white-trans-30-border-color {
+  border-color: var(--white-trans-30);
+}
+.has-white-trans-40-color {
+  color: var(--white-trans-40);
+}
+.has-white-trans-40-background-color {
+  background-color: var(--white-trans-40);
+}
+.has-white-trans-40-border-color {
+  border-color: var(--white-trans-40);
+}
+.has-white-trans-50-color {
+  color: var(--white-trans-50);
+}
+.has-white-trans-50-background-color {
+  background-color: var(--white-trans-50);
+}
+.has-white-trans-50-border-color {
+  border-color: var(--white-trans-50);
+}
+.has-white-trans-60-color {
+  color: var(--white-trans-60);
+}
+.has-white-trans-60-background-color {
+  background-color: var(--white-trans-60);
+}
+.has-white-trans-60-border-color {
+  border-color: var(--white-trans-60);
+}
+.has-white-trans-70-color {
+  color: var(--white-trans-70);
+}
+.has-white-trans-70-background-color {
+  background-color: var(--white-trans-70);
+}
+.has-white-trans-70-border-color {
+  border-color: var(--white-trans-70);
+}
+.has-white-trans-80-color {
+  color: var(--white-trans-80);
+}
+.has-white-trans-80-background-color {
+  background-color: var(--white-trans-80);
+}
+.has-white-trans-80-border-color {
+  border-color: var(--white-trans-80);
+}
+.has-white-trans-90-color {
+  color: var(--white-trans-90);
+}
+.has-white-trans-90-background-color {
+  background-color: var(--white-trans-90);
+}
+.has-white-trans-90-border-color {
+  border-color: var(--white-trans-90);
+}
+.has-black-trans-10-color {
+  color: var(--black-trans-10);
+}
+.has-black-trans-10-background-color {
+  background-color: var(--black-trans-10);
+}
+.has-black-trans-10-border-color {
+  border-color: var(--black-trans-10);
+}
+.has-black-trans-20-color {
+  color: var(--black-trans-20);
+}
+.has-black-trans-20-background-color {
+  background-color: var(--black-trans-20);
+}
+.has-black-trans-20-border-color {
+  border-color: var(--black-trans-20);
+}
+.has-black-trans-30-color {
+  color: var(--black-trans-30);
+}
+.has-black-trans-30-background-color {
+  background-color: var(--black-trans-30);
+}
+.has-black-trans-30-border-color {
+  border-color: var(--black-trans-30);
+}
+.has-black-trans-40-color {
+  color: var(--black-trans-40);
+}
+.has-black-trans-40-background-color {
+  background-color: var(--black-trans-40);
+}
+.has-black-trans-40-border-color {
+  border-color: var(--black-trans-40);
+}
+.has-black-trans-50-color {
+  color: var(--black-trans-50);
+}
+.has-black-trans-50-background-color {
+  background-color: var(--black-trans-50);
+}
+.has-black-trans-50-border-color {
+  border-color: var(--black-trans-50);
+}
+.has-black-trans-60-color {
+  color: var(--black-trans-60);
+}
+.has-black-trans-60-background-color {
+  background-color: var(--black-trans-60);
+}
+.has-black-trans-60-border-color {
+  border-color: var(--black-trans-60);
+}
+.has-black-trans-70-color {
+  color: var(--black-trans-70);
+}
+.has-black-trans-70-background-color {
+  background-color: var(--black-trans-70);
+}
+.has-black-trans-70-border-color {
+  border-color: var(--black-trans-70);
+}
+.has-black-trans-80-color {
+  color: var(--black-trans-80);
+}
+.has-black-trans-80-background-color {
+  background-color: var(--black-trans-80);
+}
+.has-black-trans-80-border-color {
+  border-color: var(--black-trans-80);
+}
+.has-black-trans-90-color {
+  color: var(--black-trans-90);
+}
+.has-black-trans-90-background-color {
+  background-color: var(--black-trans-90);
+}
+.has-black-trans-90-border-color {
+  border-color: var(--black-trans-90);
+}

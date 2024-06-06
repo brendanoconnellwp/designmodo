@@ -1,0 +1,57 @@
+/* File: automatic-frames.css - Version: 3.0.0-beta-2.2 - Generated: 2024-06-06 11:10:31 */
+:root {
+  --fr-bg-light: var(--bg-light);
+  --fr-bg-dark: var(--bg-dark);
+  --fr-text-light: var(--text-light);
+  --fr-text-dark: var(--text-dark);
+  --fr-card-padding: var(--space-m);
+  --fr-card-gap: var(--space-s);
+  --fr-card-border-size: 0.15rem;
+  --fr-card-border-color: var(--neutral-light);
+  --fr-card-border-style: solid;
+  --fr-card-radius: var(--radius-xs);
+  --fr-card-avatar-radius: 50%;
+  --fr-lede-width: 60ch;
+  --fr-list-pad-y: 0.75em;
+  --fr-list-pad-x: 1.25em;
+  --fr-hero-padding: var(--section-space-xl);
+}
+.fr-lede, p.fr-lede {
+  max-width: 60ch;
+}
+.fr-hero-padding {
+  padding-block: var(--fr-hero-padding);
+}
+.fr-text--light {
+  color: var(--text-light);
+}
+.fr-text--dark {
+  color: var(--text-dark);
+}
+.fr-bg--light {
+  background-color: var(--bg-light);
+}
+.fr-bg--dark {
+  background-color: var(--bg-dark);
+}
+#bricks-popup.templates .bricks-layout-item-inner {
+  height: 100% !important;
+  aspect-ratio: 1.3333333333;
+}
+#bricks-popup.templates img {
+  height: 100% !important;
+}
+#bricks-popup.templates .bricks-layout-item-inner .button.type {
+  display: none !important;
+}
+#bricks-popup.templates .bricks-layout-item-inner .overlay-wrapper .user {
+  display: none !important;
+}
+#bricks-popup.templates #bricks-popup-inner {
+  max-width: 100% !important;
+}
+@media (min-width: 1440px) {
+  #bricks-popup.templates .bricks-layout-item {
+    width: 25%;
+  }
+}
