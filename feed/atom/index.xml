@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xml:lang="en-US"
+	>
+	<title type="text">Designmodo</title>
+	<subtitle type="text"></subtitle>
+
+	<updated>2024-03-04T06:14:36Z</updated>
+
+	<link rel="alternate" type="text/html" href="/" />
+	<id>/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="/feed/atom/" />
+
+	<generator uri="https://wordpress.org/" version="6.5.4">WordPress</generator>
+	<entry>
+		<author>
+			<name>boconnell</name>
+							<uri>http://bricks-acss.brendan-oconnell.com/</uri>
+						</author>
+
+		<title type="html"><![CDATA[General]]></title>
+		<link rel="alternate" type="text/html" href="/general/general/" />
+
+		<id>https://bricks-acss.brendan-oconnell.com/?p=152</id>
+		<updated>2024-03-04T06:14:36Z</updated>
+		<published>2024-03-04T06:14:35Z</published>
+		<category scheme="/" term="General" />
+		<summary type="html"><![CDATA[]]></summary>
+
+					<content type="html" xml:base="/general/general/"><![CDATA[]]></content>
+		
+					<link rel="replies" type="text/html" href="/general/general/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/general/general/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>boconnell</name>
+							<uri>http://bricks-acss.brendan-oconnell.com/</uri>
+						</author>
+
+		<title type="html"><![CDATA[This is my new blog post]]></title>
+		<link rel="alternate" type="text/html" href="/general/this-is-my-new-blog-post/" />
+
+		<id>https://bricks-acss.brendan-oconnell.com/this-is-my-new-blog-post/</id>
+		<updated>2024-03-04T06:14:04Z</updated>
+		<published>2024-03-04T06:14:04Z</published>
+		<category scheme="/" term="General" />
+		<summary type="html"><![CDATA[ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat [&#8230;]]]></summary>
+
+					<content type="html" xml:base="/general/this-is-my-new-blog-post/"><![CDATA[<blockquote id="output" class="page-generator__lorem"><p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></blockquote>
+]]></content>
+		
+			</entry>
+		<entry>
+		<author>
+			<name>boconnell</name>
+							<uri>http://bricks-acss.brendan-oconnell.com/</uri>
+						</author>
+
+		<title type="html"><![CDATA[Hello world!]]></title>
+		<link rel="alternate" type="text/html" href="/general/hello-world/" />
+
+		<id>http://bricks-acss.brendan-oconnell.com/?p=1</id>
+		<updated>2024-02-27T03:18:45Z</updated>
+		<published>2024-02-27T03:18:45Z</published>
+		<category scheme="/" term="General" />
+		<summary type="html"><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></summary>
+
+					<content type="html" xml:base="/general/hello-world/"><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/general/hello-world/#comments" thr:count="1" />
+			<link rel="replies" type="application/atom+xml" href="/general/hello-world/feed/atom/" thr:count="1" />
+			<thr:total>1</thr:total>
+			</entry>
+	</feed>
